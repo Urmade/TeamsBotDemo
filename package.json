@@ -1,0 +1,19 @@
+{
+  "name": "TeamsBotSample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^4.6.0-preview1",
+    "botbuilder-teams": "^0.2.7",
+    "dotenv": "^8.2.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  }
+}
